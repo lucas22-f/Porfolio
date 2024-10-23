@@ -14,7 +14,7 @@ const Intro = (): JSX.Element => {
           <Image
             className="md:w-full w-150"
             alt="lucas"
-            src="./src/assets/image.png"
+            src="/assets/image.png"
           />
         </div>
 
